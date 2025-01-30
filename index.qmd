@@ -1,0 +1,83 @@
+---
+title: "Major Jewish Expulsions in History"
+format: html
+---
+
+This table lists major expulsions of Jewish communities throughout history, along with estimated numbers and reasons for their expulsion.
+
+## Expulsions Table
+
+| Country/Region | Year(s) | Estimated Number of Jews Expelled | Reasons for Expulsion |
+|---------------|---------|-----------------------------------|-----------------------|
+| **Judea (Roman Province)** | 70 CE | Tens of thousands | The Romans, under Titus, destroyed the Second Temple and expelled many Jews after the Great Jewish Revolt. |
+| **Judea (Roman Province)** | 135 CE | Hundreds of thousands | After the Bar Kokhba Revolt, Emperor Hadrian renamed the region to Syria Palaestina and banned Jews from Jerusalem. |
+| **Roman Empire (Italy, Rome)** | 19 CE | Approximately 4,000 | Emperor Tiberius expelled Jews from Rome due to perceived economic or religious disturbances. |
+| **England** | 1290 | Approximately 16,000 | King Edward I expelled Jews, largely due to debts owed to Jewish moneylenders and rising anti-Semitism. |
+| **France** | 1182 | Approximately 100,000 | King Philip II expelled Jews, seizing their property and canceling debts owed to them. |
+| **France** | 1306 | Approximately 100,000 | King Philip IV expelled Jews, confiscating their assets. |
+| **France** | 1394 | Approximately 100,000 | King Charles VI issued a final expulsion order. |
+| **Holy Roman Empire (Germany)** | 1348–1350 | Tens of thousands | Jews were blamed for the Black Death and expelled or killed in pogroms. |
+| **Holy Roman Empire (Germany)** | 1510 | Thousands | Jews expelled from Brandenburg after being falsely accused of host desecration. |
+| **Germany (Nazi Regime, Holocaust)** | 1933–1945 | Approximately 500,000+ | Jews were stripped of rights, deported to ghettos, expelled, and later murdered in concentration camps during the Holocaust. |
+| **Spain** | 1492 | Approximately 200,000 | The Alhambra Decree by Ferdinand and Isabella forced Jews to convert or leave, as part of the Spanish Inquisition. |
+| **Portugal** | 1496 | Approximately 100,000 | King Manuel I forced Jews to convert or leave, under pressure from Spain. |
+| **Judea & Samaria (Under Jordanian Control)** | 1948 | Thousands | During the 1948 Arab-Israeli War, Jordan expelled Jews from East Jerusalem and other areas, destroying synagogues and banning Jewish access to holy sites. |
+| **Algeria** | 1962 | Approximately 130,000 | After Algerian independence from France, nearly all Jews fled or were expelled due to persecution and loss of rights. |
+| **Egypt** | 1956 | Approximately 25,000 | Following the Suez Crisis, the Egyptian government expelled Jews and confiscated their properties. |
+| **Iraq** | 1950–1952 | Approximately 130,000 | The Iraqi government passed laws stripping Jews of citizenship and property, forcing them to flee. |
+| **Lebanon** | 1970s | Fewer than 1,000 | Civil war and increasing anti-Semitism forced nearly all Jews to flee. |
+| **Libya** | 1948–1967 | Approximately 38,000 | Pogroms and anti-Jewish laws led to mass exodus, with the last Jews leaving after the Six-Day War. |
+| **Morocco** | 1950s–1960s | Approximately 250,000 | Rising nationalism and hostility led to large-scale Jewish emigration. |
+| **Syria** | 1948–1990s | Approximately 30,000 | Jews faced severe restrictions and were later allowed to leave under international pressure. |
+| **Tunisia** | 1950s–1960s | Approximately 100,000 | After independence from France, increasing discrimination led to mass emigration. |
+| **Yemen** | 1949–1950 | Approximately 49,000 | The "Operation Magic Carpet" airlift evacuated nearly all Yemeni Jews due to persecution. |
+| **TOTAL** | **—** | **Approximately 2.7 million+** | **Total estimated number of Jews expelled from recorded instances.** |
+
+---
+
+## **Modern-Day Expulsions (Up to and Including the Holocaust)**
+
+| Time Period | Estimated Number of Jews Expelled |
+|------------|----------------------------------|
+| **Russian Pogroms (1881–1920s)** | Approximately 2 million+ fled or were expelled |
+| **Nazi Germany & Occupied Europe (1933–1945)** | Over 500,000+ expelled before Holocaust, followed by 6 million murdered |
+| **Total (Modern Expulsions Pre-1948)** | **Approximately 2.5 million+** |
+
+---
+
+## **Expulsions During and After the Creation of Modern-Day Israel (1948–Present)**
+
+| Country/Region | Year(s) | Estimated Number of Jews Expelled |
+|---------------|---------|-----------------------------------|
+| **Judea & Samaria (Under Jordanian Rule)** | 1948 | Thousands |
+| **Iraq** | 1950–1952 | Approximately 130,000 |
+| **Egypt** | 1956 | Approximately 25,000 |
+| **Libya** | 1948–1967 | Approximately 38,000 |
+| **Morocco** | 1950s–1960s | Approximately 250,000 |
+| **Syria** | 1948–1990s | Approximately 30,000 |
+| **Tunisia** | 1950s–1960s | Approximately 100,000 |
+| **Yemen** | 1949–1950 | Approximately 49,000 |
+| **Algeria** | 1962 | Approximately 130,000 |
+| **Lebanon** | 1970s | Fewer than 1,000 |
+| **Total (Expulsions Post-1948)** | **Over 850,000+** |
+
+---
+
+## **Final Summary**
+
+- **Total Countries Listed:** **21+**
+- **Total Estimated Number of Jews Expelled (Historical to Present):** **Over 3.6 million+**
+- **Total Modern Expulsions up to the Holocaust (Pre-1948):** **Approximately 2.5 million+**
+- **Total Expulsions After the Creation of Israel (Post-1948):** **Over 850,000+**
+
+---
+
+## **Sources**
+
+- **Jewish Virtual Library**: ["Expulsions of Jews Throughout History"](https://www.jewishvirtuallibrary.org/history-of-expulsions-of-jews)
+- **Encyclopedia Britannica**: ["Jewish Expulsions"](https://www.britannica.com/topic/Jewish-expulsions)
+- **Wikipedia**: ["Expulsions and exoduses of Jews"](https://en.wikipedia.org/wiki/Expulsions_and_exoduses_of_Jews)
+- **My Jewish Learning**: ["Jewish Expulsions"](https://www.myjewishlearning.com/article/jewish-expulsions/)
+- **Yad Vashem**: ["Jewish Communities Before and After the Holocaust"](https://www.yadvashem.org/)
+
+---
